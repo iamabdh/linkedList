@@ -1,0 +1,3 @@
+/home/kaliabdh/Desktop/Spring21/Applied/linkList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kaliabdh/Desktop/Spring21/Applied/linkList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kaliabdh/Desktop/Spring21/Applied/linkList/cmake-build-debug/CMakeFiles/linkList.dir
